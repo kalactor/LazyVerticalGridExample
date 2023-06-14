@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LazyVerticalGrid Example</string>
+
+    <string name="cat_1">Cat 1</string>
+    <string name="cat_2">Cat 2</string>
+    <string name="cat_3">Cat 3</string>
+    <string name="cat_4">Cat 4</string>
+    <string name="cat_5">Cat 5</string>
+    <string name="cat_6">Cat 6</string>
+    <string name="cat_7">Cat 7</string>
+    <string name="cat_8">Cat 8</string>
+    <string name="cat_9">Cat 9</string>
+</resources>
